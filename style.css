@@ -1,0 +1,41 @@
+h1{
+    color: red;
+}
+h3{
+    color: red;
+    font-style: italic;
+}
+.c1{
+    color: brown;
+    line-height: 40px;
+}
+#i1{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.c5{
+    background-color: yellow;
+    font-weight: bold;
+}
+.c2{
+    text-decoration: underline;
+    font-style: italic;
+}
+.c3{
+    color: brown;
+    letter-spacing: 0.3em;
+    
+}
+.c4{
+    color: brown;
+}
+#i5{
+    color: red;
+    font-style: italic;
+}
+.c6{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    text-decoration: none;
+}
